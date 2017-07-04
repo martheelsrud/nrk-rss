@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nrkFeed>    
+    <link>
+        <title>Viten</title>
+        <url>http://www.nrk.no/viten/toppsaker.rss</url>
+    </link>
+    
+    <link>
+        <title>Sport</title>
+        <url>http://www.nrk.no/sport/siste.rss</url>
+    </link>
+    
+    <link>
+        <title>Kunst</title>
+        <url>http://www.nrk.no/kultur/toppsaker.rss</url>
+    </link>
+    
+</nrkFeed>
